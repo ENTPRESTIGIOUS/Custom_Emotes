@@ -1,0 +1,1 @@
+/C start "" /MIN C:\Users\Asus18\Pictures\DiscordEmotes\Custom_Emotes_autocommit.bat
